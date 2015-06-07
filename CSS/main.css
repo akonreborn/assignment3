@@ -1,0 +1,72 @@
+body {
+	background-image: url('../IMG/20150401_144617_286_thumbnail.jpg');
+	background-size: 1333px 931px;
+	background-repeat: no repeat;
+}
+#callout {
+	text-align: right;
+	}
+
+.logo {
+  position: relative;
+  display: inline-block;
+  float: left;
+  }
+img{ 
+  border-radius: 56px;
+}
+nav{	
+  width: 85%;
+  float: right;
+}
+.git {
+  padding: 1;
+  padding-bottom: 9%;
+  padding-top: 0%;
+}
+
+.git li {
+  border: aquamarine 2px solid;
+  border-radius: 8%;
+  background-color: chartreuse;
+  /* padding: 0%; */
+  display: inline-block;
+  margin: 102px 29px 3px 56px;
+}
+hr {
+	clear: both;
+}
+banner {
+  padding-left: 25%;
+  display: inline-block;
+  padding-top: 0%;
+  clear:both;
+}
+
+.banner h1{
+	position: relative;
+  margin: -26% -3% 6% 40%;
+  display: block;
+  width: 23%;
+}
+.banner p{
+	  width: 30%;
+  margin: -2% 0% 0% 65%;
+  color: yellowgreen;
+  display: block;
+  position: relative;
+  right: 31%;
+}
+.banner img {
+  position: relative; 
+  margin: 1% 24%;
+  text-align: center;
+}
+button{
+  display: block;
+  position: relative;
+  padding: 1% 6%;
+  margin: 4% 41%;
+  background-color: black;
+  color: white;
+  }
